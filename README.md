@@ -1,3 +1,6 @@
+# devops-capstone-project
+The repository for the final capstone project for the IBM Applied DevOps Engineering Professional Certificate.
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
